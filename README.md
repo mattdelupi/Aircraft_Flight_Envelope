@@ -1,2 +1,1 @@
-# Aircraft_Flight_Envelope
-MATLAB code to plot the flight envelope of a given aircraft
+Open the file FLIGHT_ENVELOPE.m with MATLAB, insert known requested data of your aircraft and click Run.
